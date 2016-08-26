@@ -1,0 +1,50 @@
+#Landscape {
+	background-image: url("syria4.jpg");
+	background-repeat: no-repeat;
+	position: relative;
+	width: auto;
+	max-width: 4000px;
+	height: auto;
+	max-height: 600px;
+	background-size: cover;  /* scale background image to be large as possible*/
+	background-attachment: local;
+}
+
+
+
+
+h2 {
+	padding: 200px;
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+	text-align: center;
+	color: white;
+    font-size: 60px; /* change font of title*/
+    font-weight: lighter; 
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+body {
+	margin:0px;
+}
+
+#our-team-text {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    margin: 20px;
+    -webkit-column-width: 150px; /* Chrome, Safari, Opera */
+    column-width: 150px;
+}
+
+
+
+
+
+
+
+
+
